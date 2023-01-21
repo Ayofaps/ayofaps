@@ -2,7 +2,8 @@
 An aspiring SOFTWARE ENGINEER
  
  
- Here are some ideas to get you started:
+
+![softwaredev](https://user-images.githubusercontent.com/94874191/213881279-ae84b131-80f8-433e-9d5d-07472d959083.gif)
 
 - 🔭 I’m currently enrolled in ALX SOFTWARE ENGINEERING PROGRAM
 - 🌱 I’m currently learning C Programming, HTML/CSS, Linux and Git
