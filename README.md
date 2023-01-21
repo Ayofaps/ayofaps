@@ -1,4 +1,4 @@
-                                      ### Hi 👋, I'm Ayodele Fapetu
+                                         Hi 👋, I'm Ayodele Fapetu
                                       
                                        An aspiring SOFTWARE ENGINEER
  
