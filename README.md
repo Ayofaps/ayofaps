@@ -1,9 +1,8 @@
 ### Hi 👋, I'm Ayodele Fapetu
 An aspiring SOFTWARE ENGINEER
  
- 
+ ![me](https://user-images.githubusercontent.com/94874191/213881527-de0c25c0-1fa8-4717-a4a0-4bad02e19906.gif)
 
-![softwaredev](https://user-images.githubusercontent.com/94874191/213881279-ae84b131-80f8-433e-9d5d-07472d959083.gif)
 
 - 🔭 I’m currently enrolled in ALX SOFTWARE ENGINEERING PROGRAM
 - 🌱 I’m currently learning C Programming, HTML/CSS, Linux and Git
